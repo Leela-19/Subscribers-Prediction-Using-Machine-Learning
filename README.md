@@ -70,6 +70,7 @@ Mean Absolute Percentage Error (MAPE).
 Hyperparameter Tuning:
 
 Use GridSearchCV or RandomizedSearchCV for optimal model parameters.
+
 8. Model Evaluation
 Visualization:
 
@@ -78,11 +79,13 @@ Analyze residual errors.
 Validation:
 
 Test on unseen data to ensure generalizability.
+
 9. Deployment
 Options:
 Create a REST API using Flask or FastAPI to serve predictions.
 Deploy on cloud platforms (AWS, GCP, Azure).
 Use dashboards (e.g., Streamlit, Dash) for visualization.
+
 10. Future Enhancements
 Incorporate NLP techniques to analyze video content.
 Use external trends (e.g., Google Trends data) for better predictions.
