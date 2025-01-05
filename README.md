@@ -4,6 +4,8 @@
 1. Define the Problem
 The goal is to predict the number of subscribers a YouTube channel will have in the future based on historical data and influencing factors.
 
+Predicting subscribers is a data-driven process that leverages historical data and various influencing factors to forecast future subscriber counts. This task involves using machine learning models to analyze trends, identify patterns, and predict growth based on channel performance metrics and external variables.
+
 ![image](https://github.com/user-attachments/assets/4e1c0ff7-90e4-4951-b201-09662a36a59a)
 
 
